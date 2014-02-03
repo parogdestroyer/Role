@@ -556,12 +556,17 @@
       <changelist id="a7539ddc-e3e6-46d7-8ef9-398fee56a0b4" name="Default" comment="" />
       <created>1391449521172</created>
       <updated>1391449521172</updated>
-      <workItem from="1391454601088" duration="3988000" />
+      <workItem from="1391454601088" duration="4107000" />
     </task>
+    <task id="LOCAL-00001" summary=":kiss:&#10;">
+      <created>1391458800888</created>
+      <updated>1391458800888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3988000" />
+    <option name="totallyTimeSpent" value="4107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="0" />
@@ -607,6 +612,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value=":kiss:&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value=":kiss:&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
