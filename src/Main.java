@@ -4,4 +4,6 @@ public class Main {
         Form app = new Form(); //Создаем экземпляр нашего приложения
         app.setVisible(true); //С этого момента приложение запущено!
     }
+
+
 }
